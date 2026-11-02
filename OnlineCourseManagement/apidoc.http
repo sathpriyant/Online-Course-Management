@@ -1,0 +1,15 @@
+
+###
+GET http://127.0.0.1:8000/courses/
+
+###
+GET http://127.0.0.1:8000/instructors/
+
+###
+GET http://127.0.0.1:8000/students/
+
+###
+GET http://127.0.0.1:8000/enrollments/
+
+###
+GET http://127.0.0.1:8000/lessons/
